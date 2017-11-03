@@ -27,7 +27,7 @@
 
     <h1 style="font-size:1.5em">phpFreeChat - fast refresh_delay</h1>
     
-    <div class="pfc-hook"><a href="http://www.phpfreechat.net">Creating chat rooms everywhere - phpFreeChat</a></div>
+    <div class="pfc-hook"><a href="#scriptsmasterndcodes">Creating chat rooms everywhere - phpFreeChat</a></div>
     <script type="text/javascript">
       $('.pfc-hook').phpfreechat({
         refresh_delay: 2000
